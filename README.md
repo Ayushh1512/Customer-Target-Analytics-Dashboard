@@ -142,11 +142,19 @@ strategies.
 
 <img width="851" height="480" alt="Screenshot 2026-04-17 125205" src="https://github.com/user-attachments/assets/2e816eec-4e40-4b3b-b2aa-eda588a29e34" />
 
+
+
 <img width="853" height="490" alt="Screenshot 2026-04-17 125320" src="https://github.com/user-attachments/assets/0bc8a73f-a6a3-4bf0-a170-2e3db0a2f700" />
+
+
 
 <img width="853" height="489" alt="Screenshot 2026-04-17 125416" src="https://github.com/user-attachments/assets/fa218053-8b1d-41c3-a5eb-f231f16613c7" />
 
+
+
 <img width="887" height="503" alt="Screenshot 2026-04-17 125529" src="https://github.com/user-attachments/assets/0eb1dcdf-05dc-4c9b-895f-94d2dd3e701b" />
+
+
 
 ## Insights:
 
