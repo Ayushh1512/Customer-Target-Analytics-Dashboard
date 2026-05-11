@@ -142,4 +142,32 @@ strategies.
 
 <img width="851" height="480" alt="Screenshot 2026-04-17 125205" src="https://github.com/user-attachments/assets/2e816eec-4e40-4b3b-b2aa-eda588a29e34" />
 
+<img width="853" height="490" alt="Screenshot 2026-04-17 125320" src="https://github.com/user-attachments/assets/0bc8a73f-a6a3-4bf0-a170-2e3db0a2f700" />
+
+<img width="853" height="489" alt="Screenshot 2026-04-17 125416" src="https://github.com/user-attachments/assets/fa218053-8b1d-41c3-a5eb-f231f16613c7" />
+
+<img width="887" height="503" alt="Screenshot 2026-04-17 125529" src="https://github.com/user-attachments/assets/0eb1dcdf-05dc-4c9b-895f-94d2dd3e701b" />
+
+## Insights:
+
+- The dashboard achieved this by building a star-schema data model in Power BI.
+  
+- Customer_Demographics sits at the center with one-to-many relationships to Transactions and Loyalty_Program. 
+  
+- Store performance data was merged via Power Query using a left outer join on Store_ID, which appended Store_Type and Region directly to the transactions table — making every transaction enrichable with channel and geographic context.
+  
+- Key engineered columns (Membership_Duration, CLV, Transaction_Year/Month, Tier_Order) bridge the four data domains into a unified, queryable model.
+  
+- Three layered segmentation schemes were implemented:
+  
+- Purchase-frequency tiers (Low: 0–3, Mid: 4–8, High: 9+ purchases) via a DAX Tier_Order column
+  
+- CLV segmentation (High CLV vs Low CLV) calculated as annual spend rate, compared against the global average using
+  ALL(Customer_Demographics)
+  
+- Churn labeling via a dedicated Churn_Labelled_Customers table with a Churn Rate KPI measure, enabling sliceable views by Region, Income Group, Channel, and Loyalty Tier.
+  
+- The interactive slicer on Loyalty_Tier across product category charts makes this truly dynamic — analysts can shift focus between Elite, Premium, Plus, or Standard cohorts on the fly.
+
+
 
