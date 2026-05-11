@@ -133,3 +133,13 @@ strategies.
 ○ How to strengthen loyalty engagement?
 
 ## Task 8: Video explanation: Expressing the finding and actionable insights
+
+# Solution in PPT: 
+
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/commit/037d8d853b1a51fbc1d647595b158022399e268b">PPT</a>
+
+## Few Dashboard Pictures: 
+
+<img width="851" height="480" alt="Screenshot 2026-04-17 125205" src="https://github.com/user-attachments/assets/2e816eec-4e40-4b3b-b2aa-eda588a29e34" />
+
+
