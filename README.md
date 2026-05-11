@@ -134,6 +134,11 @@ strategies.
 
 ## Task 8: Video explanation: Expressing the finding and actionable insights
 
+
+# Solution in Power BI file:
+
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/ProjectPowerBI.pbix">PB</a>
+
 # Solution in PPT: 
 
 -<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/commit/037d8d853b1a51fbc1d647595b158022399e268b">PPT</a>
