@@ -39,8 +39,8 @@ strategies.
 
 ## Dataset used:
 
--<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Customer_Demographics.csv">Dataset</a>
--<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Churn_Labelled_Customers.csv">Dataset</a>
--<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Customer_Transactions.csv">Dataset</a>
--<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Loyalty_Program.csv">Dataset</a>
--<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Store_Locations.csv">Dataset</a>
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Customer_Demographics.csv">Dataset1</a>
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Churn_Labelled_Customers.csv">Dataset2</a>
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Customer_Transactions.csv">Dataset3</a>
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Loyalty_Program.csv">Dataset4</a>
+-<a href="https://github.com/Ayushh1512/Customer-Target-Analytics-Dashboard/blob/main/Store_Locations.csv">Dataset5</a>
